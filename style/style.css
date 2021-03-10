@@ -25,15 +25,19 @@ footer{
     color: black;
     padding: 30px;
 }
+
 .text-left{
     text-align: left;
 }
+
 .text-center{
     text-align: center;
 }
+
 .text-right{
     text-align: right;
 }
+
 .text-blue{
     color: rgb(0, 113, 197);
 }
