@@ -1,10 +1,12 @@
 @charset "utf-8";
+
 body{
     background-color: white;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
 }
+
 header{
     background-color: rgb(0, 113, 197);
     color: white;
@@ -13,9 +15,11 @@ header{
     padding-left: 30px;
     padding-right: 30px;
 }
+
 main{
     margin: 30px;
 }
+
 footer{
     background-color: rgb(231, 231, 231);
     color: black;
