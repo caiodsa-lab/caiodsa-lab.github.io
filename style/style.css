@@ -57,15 +57,19 @@ footer{
 .background-blue{
     background-color: rgb(0, 113, 197);
 }
+
 .background-gray{
     background-color: rgb(231, 231, 231);
 }
+
 .background-white{
     background-color: white;
 }
+
 .background-black{
     background-color: black;
 }
+
 *{
     margin: 0;
     padding: 0;
