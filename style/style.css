@@ -26,6 +26,10 @@ footer{
     padding: 30px;
 }
 
+a{
+    text-decoration: none;
+}
+
 .text-left{
     text-align: left;
 }
