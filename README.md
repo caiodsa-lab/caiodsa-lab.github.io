@@ -1,6 +1,6 @@
 # My GitHub Pages WebSite
 
-[Visit](https://caiodsa-lab.github.io)
+[Visit](http://caiodsa-lab.github.io)
  / 
 [License](#license)
 
