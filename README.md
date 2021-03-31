@@ -1,5 +1,7 @@
 # My GitHub Pages WebSite
 
+![Banner](design/images/banner.jpg)
+
 [Visit](http://caiodsa-lab.github.io)
  / 
 [License](#license)
