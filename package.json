@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "name": "caiodsa-lab.github.io",
+  "description": "[Visit](http://caiodsa-lab.github.io)  /  [License](#license)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiodsa-lab/caiodsa-lab.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiodsa-lab/caiodsa-lab.github.io/issues"
+  },
+  "homepage": "https://github.com/caiodsa-lab/caiodsa-lab.github.io#readme"
+}
