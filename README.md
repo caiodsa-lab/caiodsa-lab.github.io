@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/github/languages/count/caiodsa-lab/caiodsa-lab.github.io?style=for-the-badge" alt="Used Languages">
   <img src="https://img.shields.io/github/forks/caiodsa-lab/caiodsa-lab.github.io?style=for-the-badge" alt="Forks">
   <img src="https://img.shields.io/github/stars/caiodsa-lab/caiodsa-lab.github.io?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/issues-raw/caiodsa-lab/caiodsa-lab.github.io?style=for-the-badge" alt="Open Issues">
   <img src="https://img.shields.io/github/license/caiodsa-lab/caiodsa-lab.github.io?style=for-the-badge"" alt="License">
 </p>
 
