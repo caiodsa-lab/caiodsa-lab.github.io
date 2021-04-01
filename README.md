@@ -1,6 +1,6 @@
 <h1 align="center">My GitHub Pages WebSite</h1>
 
-<img src="https://img.shields.io/github/license/caiodsa-lab/caiodsa-lab.github.io" alt="License">
+<p align="center"><img src="https://img.shields.io/github/license/caiodsa-lab/caiodsa-lab.github.io" alt="License"></p>
 
 <img src="design/images/banner.jpg" alt="Banner">
 
