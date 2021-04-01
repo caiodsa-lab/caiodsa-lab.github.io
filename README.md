@@ -1,9 +1,9 @@
 <h1 align="center">My GitHub Pages WebSite</h1>
 
 <p align="center">
-<img src="https://img.shields.io/github/forks/caiodsa-lab/caiodsa-lab.github.io?style=social" alt="Forks">
-<img src="https://img.shields.io/github/stars/caiodsa-lab/caiodsa-lab.github.io?style=social" alt="Stars">
-<img src="https://img.shields.io/github/license/caiodsa-lab/caiodsa-lab.github.io" alt="License">
+<img src="https://img.shields.io/github/forks/caiodsa-lab/caiodsa-lab.github.io?style=flat-square" alt="Forks">
+<img src="https://img.shields.io/github/stars/caiodsa-lab/caiodsa-lab.github.io?style=flat-square"" alt="Stars">
+<img src="https://img.shields.io/github/license/caiodsa-lab/caiodsa-lab.github.io?style=flat-square"" alt="License">
 </p>
 
 <img src="design/images/banner.jpg" alt="Banner">
