@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/github/issues-raw/caiodsa-lab/caiodsa-lab.github.io?style=for-the-badge" alt="Open Issues">
   <img src="https://img.shields.io/github/license/caiodsa-lab/caiodsa-lab.github.io?style=for-the-badge"" alt="License">
   <br>
-  <img src="https://img.shields.io/badge/Powered%20By-Material%20Design-blue?style=for-the-badge&logo=material-design" alt="Material Design">
-  <img src="https://img.shields.io/badge/Powered%20By-TypeScript-blue?style=for-the-badge&logo=typescript" alt="TypeScript">
+  <a href="https://material.io"><img src="https://img.shields.io/badge/Powered%20By-Material%20Design-blue?style=for-the-badge&logo=material-design" alt="Material Design"></a>
+  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/Powered%20By-TypeScript-blue?style=for-the-badge&logo=typescript" alt="TypeScript"></a>
 </p>
 
 <img src="design/images/banner.jpg" alt="Banner">
